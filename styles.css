@@ -1,0 +1,33 @@
+body{
+    background: linear-gradient(120deg , rgb(152, 15, 70) , rgb(70, 4, 70));
+    align-items: center;
+    align-content: center;
+}
+
+h1{
+    color: pink;
+    font-family: fantasy;
+    font-size: xx-large;
+}
+
+label{
+    color: white;
+    font-size: xx-large;
+}
+
+.btn{
+    color: pink;
+    background-color: rgb(36, 2, 36);
+    font-family: fantasy;
+    font-size: larger;
+    border-radius: 10px;
+    padding: 20px;
+    text-align: center;
+}
+
+input{
+    width: 400px;
+    height: 8vh;
+    border: 3px solid rgb(35, 3, 35);
+    border-radius: 15px;
+}
